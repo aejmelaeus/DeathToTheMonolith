@@ -8,7 +8,7 @@ It is a simple application mimicking some kind of order processor in a e-commers
 
 ## Test it yourself
 
-There are a few thing you need to install:
+There are a few things you need to install:
 * Install SEQ (https://getseq.net/)
 * Install RavenDb (https://ravendb.net/downloads)
 
